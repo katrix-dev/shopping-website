@@ -1,0 +1,214 @@
+{
+  "vendor": [
+    {
+      "name": "Nayan Hadke",
+      "email": "nayan.com",
+      "mobile": "7030289400",
+      "password": "nayan",
+      "id": 1
+    },
+    {
+      "name": "nayan",
+      "email": "na@gmail.com",
+      "mobile": "7030",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "name": "nayan",
+      "email": "nayan@gmail.com",
+      "mobile": "7030289400",
+      "password": "nayan",
+      "id": 3
+    }
+  ],
+  "product": [
+    {
+      "id": 2,
+      "name": "Mango",
+      "price": 100,
+      "details": "Good Indian Mango",
+      "photo": "2.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Grapes",
+      "price": 40,
+      "details": "Good Grapes",
+      "photo": "4.jpg"
+    },
+    {
+      "name": "Strawberry",
+      "price": "700",
+      "photo": "6.jpg",
+      "details": "Good Fresh Strawberries",
+      "id": 6
+    },
+    {
+      "name": "Keyboard",
+      "price": "1100",
+      "photo": "https://techcrunch.com/wp-content/uploads/2021/02/keyboard.jpg",
+      "details": "Best Keyboard",
+      "id": 8
+    },
+    {
+      "name": "Headphone",
+      "price": "3999",
+      "photo": "https://cdn11.bigcommerce.com/s-k11cg5mzh9/images/stencil/500x659/products/243/10142/5271557fd49fd9915116b7e6e59cfbece66b796e52d9c3a8720deb86737f48c5__21400.1641107899.jpg?c=2",
+      "details": "Good Headphones",
+      "id": 9
+    },
+    {
+      "name": "Laptop",
+      "price": "50000",
+      "photo": "https://images.prismic.io/frameworkmarketplace/5dc5fc06-aec5-4f28-a924-0230aa91a360_Pre-Marketplace+-+image_02.jpg?auto=compress,format",
+      "details": "Good Laptop",
+      "id": 10
+    },
+    {
+      "name": "Printer",
+      "price": "17000",
+      "photo": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1631713412-printer-5-1631713407.jpg",
+      "details": "Good printer",
+      "id": 11
+    }
+  ],
+  "order": [
+    {
+      "customername": "Nayan",
+      "mobile": "7030",
+      "email": "nak",
+      "address": "sdfgh",
+      "product": [
+        {
+          "id": 4,
+          "name": "Grapes",
+          "price": 40,
+          "details": "Good Grapes",
+          "photo": "4.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Banana",
+          "price": 40,
+          "details": "Good Yellow Banana",
+          "photo": "3.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Mango",
+          "price": 100,
+          "details": "Good Indian Mango",
+          "photo": "2.jpg"
+        },
+        {
+          "id": 1,
+          "name": "Apple",
+          "price": 300,
+          "details": "Good Imported Apple",
+          "photo": "1.jpg"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "customername": "Shubham",
+      "mobile": "700",
+      "email": "hxbhn",
+      "address": "whitefield",
+      "product": [
+        {
+          "id": 4,
+          "name": "Grapes",
+          "price": 40,
+          "details": "Good Grapes",
+          "photo": "4.jpg"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "customername": "Nehal",
+      "mobile": "as",
+      "email": "as",
+      "address": "as",
+      "product": [
+        {
+          "name": "Laptop",
+          "price": "50000",
+          "photo": "https://images.prismic.io/frameworkmarketplace/5dc5fc06-aec5-4f28-a924-0230aa91a360_Pre-Marketplace+-+image_02.jpg?auto=compress,format",
+          "details": "Good Laptop",
+          "id": 10
+        },
+        {
+          "name": "Headphone",
+          "price": "3999",
+          "photo": "https://cdn11.bigcommerce.com/s-k11cg5mzh9/images/stencil/500x659/products/243/10142/5271557fd49fd9915116b7e6e59cfbece66b796e52d9c3a8720deb86737f48c5__21400.1641107899.jpg?c=2",
+          "details": "Good Headphones",
+          "id": 9
+        },
+        {
+          "name": "Mouse",
+          "price": "900",
+          "photo": "https://resource.logitechg.com/w_460,c_limit,q_auto,f_auto,b_rgb:f4f4f4,dpr_2.0/d_transparent.gif/content/dam/gaming/en/products/refreshed-g203/g203-hero.png?v=1",
+          "details": "Good mouse",
+          "id": 7
+        },
+        {
+          "name": "Printer",
+          "price": "17000",
+          "photo": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1631713412-printer-5-1631713407.jpg",
+          "details": "Good printer",
+          "id": 11
+        },
+        {
+          "name": "Keyboard",
+          "price": "1100",
+          "photo": "https://techcrunch.com/wp-content/uploads/2021/02/keyboard.jpg",
+          "details": "Best Keyboard",
+          "id": 8
+        }
+      ],
+      "id": 3
+    },
+    {
+      "customername": "raj",
+      "mobile": "1234567890",
+      "email": "r@gmail.com",
+      "address": "whitefield bangaloire",
+      "product": [
+        {
+          "name": "Headphone",
+          "price": "3999",
+          "photo": "https://cdn11.bigcommerce.com/s-k11cg5mzh9/images/stencil/500x659/products/243/10142/5271557fd49fd9915116b7e6e59cfbece66b796e52d9c3a8720deb86737f48c5__21400.1641107899.jpg?c=2",
+          "details": "Good Headphones",
+          "id": 9
+        },
+        {
+          "name": "Keyboard",
+          "price": "1100",
+          "photo": "https://techcrunch.com/wp-content/uploads/2021/02/keyboard.jpg",
+          "details": "Best Keyboard",
+          "id": 8
+        }
+      ],
+      "id": 4
+    }
+  ],
+  "cart": [
+    {
+      "name": "Headphone",
+      "price": "3999",
+      "photo": "https://cdn11.bigcommerce.com/s-k11cg5mzh9/images/stencil/500x659/products/243/10142/5271557fd49fd9915116b7e6e59cfbece66b796e52d9c3a8720deb86737f48c5__21400.1641107899.jpg?c=2",
+      "details": "Good Headphones",
+      "id": 9
+    },
+    {
+      "name": "Keyboard",
+      "price": "1100",
+      "photo": "https://techcrunch.com/wp-content/uploads/2021/02/keyboard.jpg",
+      "details": "Best Keyboard",
+      "id": 8
+    }
+  ]
+}
